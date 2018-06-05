@@ -1,0 +1,12 @@
+V1,V2,weight
+cat,wildcat,1.0841
+cat,E. lynx,0.6707
+cat,I. lynx,1.3255
+cat,bobcat,1.0453
+cat,oncilla,0.6866
+cat,margay,0.696
+cat,puma,1.3922
+cat,lion,0.6716
+bobcat,puma,1.6339
+bobcat,cat,1.7966
+puma,bobcat,0.8154

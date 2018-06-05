@@ -1,0 +1,12 @@
+V1,V2,weight
+cat,wildcat,2
+cat,E. lynx,1
+cat,I. lynx,3
+cat,bobcat,1
+cat,oncilla,1
+cat,margay,1
+cat,puma,3
+cat,lion,1
+bobcat,puma,4
+bobcat,cat,5
+puma,bobcat,0
